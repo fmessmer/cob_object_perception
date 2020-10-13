@@ -1,4 +1,8 @@
 - git:
+    local-name: cob_perception_common
+    uri: https://github.com/fmessmer/cob_perception_common.git
+    version: minimal_cob_vision_utils
+- git:
     local-name: cob_environment_perception
     uri: https://github.com/ipa320/cob_environment_perception.git
     version: indigo_dev
