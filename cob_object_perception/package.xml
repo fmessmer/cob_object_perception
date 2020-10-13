@@ -15,7 +15,6 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <exec_depend>cob_fiducials</exec_depend>
   <exec_depend>cob_marker</exec_depend>
   <!--exec_depend>cob_object_categorization</exec_depend-->
   <exec_depend>cob_object_detection_fake</exec_depend>
