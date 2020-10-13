@@ -1,4 +1,8 @@
 - git:
+    local-name: cob_fiducials
+    uri: https://github.com/ipa320/cob_fiducials.git
+    version: kinetic-devel
+- git:
     local-name: cob_perception_common
     uri: https://github.com/fmessmer/cob_perception_common.git
     version: minimal_cob_vision_utils
